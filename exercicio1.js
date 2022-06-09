@@ -1,0 +1,5 @@
+let nome = prompt(" Digite seu nome")
+let km = prompt(nome+" Digite a distância percorrida")
+let litros = prompt(" agora "+nome+" Digite a quantidade de combustível gasto")
+let result = (km/litros)
+alert(nome+" o consumo médio do automóvel é de:" + result.toFixed(3))
