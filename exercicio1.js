@@ -1,3 +1,4 @@
+alert("Bem-vindo ao Olho na qualidade")
 let nome = prompt(" Digite seu nome")
 let km = prompt(nome+" Digite a distância percorrida")
 let litros = prompt(" agora "+nome+" Digite a quantidade de combustível gasto")
